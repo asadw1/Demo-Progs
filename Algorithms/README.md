@@ -1,3 +1,29 @@
 # Algorithms
 
-##The learning trail of algorithms starting with the infamous BubbleSort. Hope to add stuff here weekly! 
+##Categories
+
+####Sorting
+- [x] Bubble Sort (ascending/descending)
+- [ ] Cocktail Sort
+- [ ] Insertion Sort
+- [ ] Selection Sort
+- [ ] Heap Sort
+- [ ] Merge Sort
+- [ ] Quick Sort
+
+####Searching
+- [ ] Binary Search
+
+####Graph
+- [ ] Depth-first search
+- [ ] Breadth-first search
+- [ ] Prim's algorithm
+- [ ] Djikstra's algorithm
+- [ ] Floyd-Warshall algorithm
+- [ ] Kruskal algorithm
+- [ ] Topological Sort
+
+####Other/Assorted
+- [ ] Gnome Sort
+- [ ] B* 
+- [ ] A*
