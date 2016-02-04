@@ -5,7 +5,7 @@
 ####Sorting
 - [x] Bubble Sort (ascending/descending)
 - [ ] Cocktail Sort
-- [ ] Insertion Sort
+- [x] Insertion Sort
 - [ ] Selection Sort
 - [ ] Heap Sort
 - [ ] Merge Sort
